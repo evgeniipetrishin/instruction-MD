@@ -8,3 +8,7 @@ git --version
 ```sh
 git init
 ```
+Команда статуса
+```sh
+git status 
+```
